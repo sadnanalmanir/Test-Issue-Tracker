@@ -7,4 +7,6 @@ Test Edit changed by Harold.
 
 Another addition by Harold.
 
-Modifications from Monica
+Modifications from Monica.
+
+And another modification by Adam.
