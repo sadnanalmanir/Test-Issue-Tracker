@@ -2,9 +2,10 @@ Test-Issue-Tracker
 ==================
 
 Issue Tracker Test
+-------------------
 
-Test Edit
+* Test Edit
 
-Local Edit
+1. <b>Local</b> Edit
 
-Another local edit from Tara
+2. Another local edit from Tara
