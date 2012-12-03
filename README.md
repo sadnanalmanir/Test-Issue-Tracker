@@ -43,6 +43,4 @@ Some changes
 
 A New Change
 
-Another Change
-
 
